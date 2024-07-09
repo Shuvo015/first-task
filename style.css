@@ -69,3 +69,41 @@ header{
 .inspiration-part{
     text-align: center;
 }
+.my-target{
+    text-align: center;
+    margin-top: 70px;
+}
+span{
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
+a{
+    color:black;
+}
+.card-1 {
+width: 320px;
+background-color: rgba(221, 204, 184, 0.212);
+
+
+}
+.card-2 {
+    width: 320px;
+    background-color: #6c9d9e5d;
+    height: 100%;
+    
+    }
+.card-3 {
+        width: 320px;
+        background-color: #d4c87e54;
+        
+        }
+.card-main{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 40px;
+}
+.card-text{
+    margin-left: 20px;
+   padding-top: 20px;
+}
