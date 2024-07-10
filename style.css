@@ -10,11 +10,16 @@
 header{
     background-image: url("images/Hero-bg.png");
     height: 652px;
-    width: 1440px;
+    width: 100%;
     margin: 50px 0;
 }
 .header-main-div{
     text-align: center;
+    padding: 80px;
+   
+}
+.header-main-div img{
+    width: 300px;
 }
 .h4-tag{
     font-weight: 300;
@@ -24,8 +29,10 @@ header{
     background-color:#0D1321;
     color: white;
     padding: 21px 24px;
-    border-radius: 5%;
+    border-radius: 5px;
     font-weight: bold;
+    width: 250px;
+    font-size: 20px;
    
 }
 .main-div{
@@ -69,6 +76,9 @@ header{
 .inspiration-part{
     text-align: center;
 }
+iframe{
+    border-radius: 10px;
+}
 .my-target{
     text-align: center;
     margin-top: 70px;
@@ -96,6 +106,7 @@ background-color: rgba(221, 204, 184, 0.212);
 .card-3 {
         width: 320px;
         background-color: #d4c87e54;
+        padding-bottom: 20px;
         
         }
 .card-main{
@@ -113,6 +124,7 @@ background-color: rgba(221, 204, 184, 0.212);
     height: 400px;
     background-size: cover;
     margin-top: 90px;
+    border-radius: 15px;
     
 }
 .support-text{
@@ -129,6 +141,7 @@ background-color: rgba(221, 204, 184, 0.212);
 .Input-sup{
     width: 300px;
     height: 30px;
+    border-radius: 10px;
 }
 .btn-sub{
     text-align: center;
@@ -139,6 +152,7 @@ background-color: rgba(221, 204, 184, 0.212);
     height: 40px;
     border-radius: 8px;
     border-color: none;
+    font-weight: bold;
 }
 .footer-div{
     display: flex;
