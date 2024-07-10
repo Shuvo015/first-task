@@ -140,3 +140,15 @@ background-color: rgba(221, 204, 184, 0.212);
     border-radius: 8px;
     border-color: none;
 }
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 1000px;
+    text-align: center;
+    margin:50px auto 0px auto;
+    
+}
+.footer-img{
+margin-top: 14px;
+}
